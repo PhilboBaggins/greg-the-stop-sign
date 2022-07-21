@@ -1,0 +1,33 @@
+{
+  "uuid": "9845afc820750cac452ca9f4fefc7692",
+  "path": "Offline/Greg%20the%20stop%20sign",
+  "name": "Greg the stop sign",
+  "content": "",
+  "created_at": "2022-06-25 03:25:55",
+  "updated_at": "2022-06-25 03:32:19",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "abe1aa86eca859d4a53bf4c3555a8474",
+      "puuid": "9845afc820750cac452ca9f4fefc7692",
+      "title": "Greg the stop sign (90x90)",
+      "filename": "Greg the stop sign(90x90).json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [],
+      "updateTime": 1656091939,
+      "createTime": 1656091555,
+      "histories": [],
+      "created_at": "2022-06-25 03:25:55",
+      "updated_at": "2022-06-25 03:32:19"
+    }
+  ],
+  "sort": [],
+  "title": "Greg the stop sign",
+  "foldername": "Greg the stop sign",
+  "schfilename": "TISM boards.json",
+  "schfilemtime": 1656091555910.039
+}
