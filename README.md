@@ -4,7 +4,7 @@ TODO: Add description
 
 [Greg! The Stop Sign by TISM on YouTube](https://www.youtube.com/watch?v=JwI2NrVYqIE)
 
-TODO: Add photo
+![Photo of board](photo.jpg)
 
 | Top                                          | Bottom                                             |
 | -------------------------------------------- | -------------------------------------------------- |
