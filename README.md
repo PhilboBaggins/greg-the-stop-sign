@@ -1,13 +1,11 @@
 # Greg The Stop Sign
 
-TODO: Add description
-
-[Greg! The Stop Sign by TISM on YouTube](https://www.youtube.com/watch?v=JwI2NrVYqIE)
+A little [Greg! The Stop Sign by TISM](https://www.youtube.com/watch?v=JwI2NrVYqIE) inspired board.
 
 ![Photo of board](photo.jpg)
 
 | Top                                          | Bottom                                             |
-| -------------------------------------------- | -------------------------------------------------- |
+|----------------------------------------------|----------------------------------------------------|
 | ![Top of board design](Exports-v1.1/Top.svg) | ![Bottom of board design](Exports-v1.1/Bottom.svg) |
 
 ## Licence
